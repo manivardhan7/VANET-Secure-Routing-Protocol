@@ -1,0 +1,3 @@
+# For HMAC and general Python only stdlib used (no extra packages required).
+# If you want RSA signing, uncomment the last line and install it via pip.
+cryptography>=40.0.0  
